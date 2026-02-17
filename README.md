@@ -1,2 +1,4 @@
-# Scikit-Learn-
-This notebook contains my practice and learning with the scikit-learn library. It covers basic machine learning concepts such as data preprocessing, model training, and evaluation. The purpose of this notebook is to strengthen my understanding of machine learning fundamentals through hands-on examples.
+# Decision-Tree
+This notebook uses the Titanic dataset from Kaggle to predict passenger fare using a Decision Tree model.
+It includes data preprocessing, model training, and basic evaluation.
+The project is created for learning and practice purposes.
